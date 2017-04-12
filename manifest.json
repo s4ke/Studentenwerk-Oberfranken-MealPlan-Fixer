@@ -8,6 +8,8 @@
   "content_scripts": [
     {
       "matches": [
+        "https://www.studentenwerk-oberfranken.de/essen/speiseplaene/amberg.html",
+      
         "https://www.studentenwerk-oberfranken.de/essen/speiseplaene/coburg/hauptmensa.html",
         "https://www.studentenwerk-oberfranken.de/essen/speiseplaene/coburg/campus-design.html",
         
